@@ -18,9 +18,7 @@ wow/flutter, ленточное насыщение, эхо с синхрониз
 
 ▶ **[Смотреть видео-демонстрацию (со звуком)](assets/IY_GitHub_Video.mp4)**
 
-<!-- На GitHub можно встроить плеер: перетащите assets/IY_GitHub_Video.mp4 в редактор
-     README на сайте — появится инлайн-видео со звуком. Либо тег ниже: -->
-<video src="assets/IY_GitHub_Video.mp4" controls width="100%"></video>
+
 
 ---
 
