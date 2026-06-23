@@ -4,7 +4,7 @@
 wow/flutter, ленточное насыщение, эхо с синхронизацией к темпу, режимы машин и
 артефакты износа — тёплый аналоговый и лоу-фай звук.
 
-Автор: **Psychedelic Rain** (Алексей Шаповалов) · Версия **1.0.0** · **Бесплатно** (freeware)
+Автор: **Psychedelic Rain** · Версия **1.0.0** · **Бесплатно** (freeware)
 Сделано для **[IY Beats](https://www.youtube.com/@IYBeats)**.
 
 > *A creative analog-tape multi-effect: musical wow/flutter, tape saturation,
@@ -12,14 +12,14 @@ wow/flutter, ленточное насыщение, эхо с синхрониз
 
 ---
 
-## 🎬 Превью
+## 🎬 Демонстрация
 
 ![Tape IY Beats — интерфейс плагина](assets/screenshot.png)
 
-▶ **[Смотреть видео-демонстрацию](assets/IY_GitHub_Video.mp4)**
+▶ **[Смотреть видео-демонстрацию (со звуком)](assets/IY_GitHub_Video.mp4)**
 
 <!-- На GitHub можно встроить плеер: перетащите assets/IY_GitHub_Video.mp4 в редактор
-     README на сайте — появится инлайн-видео. Либо тег ниже после публикации: -->
+     README на сайте — появится инлайн-видео со звуком. Либо тег ниже: -->
 <video src="assets/IY_GitHub_Video.mp4" controls width="100%"></video>
 
 ---
@@ -84,5 +84,5 @@ Standalone-версия работает без DAW.
 Создано с помощью JUCE. VST — товарный знак Steinberg Media Technologies GmbH.
 Сторонние компоненты — см. **[THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt)**.
 
-© 2026 Алексей Шаповалов / Psychedelic Rain. Сделано для IY Beats.
+© 2026 Psychedelic Rain. Сделано для IY Beats.
 Сайт: https://www.psyrain.ru · Контакт: psychedelic.rain@gmail.com
