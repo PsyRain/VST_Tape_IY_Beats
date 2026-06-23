@@ -14,7 +14,7 @@ wow/flutter, ленточное насыщение, эхо с синхрониз
 
 ## 🎬 Демонстрация
 
-![Tape IY Beats — интерфейс плагина](assets/screenshot.png)
+![Tape IY Beats — интерфейс плагина](assets/preview-v1.png)
 
 ▶ **[Смотреть видео-демонстрацию (со звуком)](assets/IY_GitHub_Video.mp4)**
 
