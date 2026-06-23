@@ -1,0 +1,77 @@
+Tape IY Beats — Third-Party Notices / Уведомления о сторонних компонентах
+========================================================================
+
+=============================== ENGLISH ===============================
+
+This product includes or links the following third-party software. The
+notices below are reproduced to comply with their respective licences.
+
+JUCE
+- Tape IY Beats is built with the JUCE framework.
+  Copyright (c) Raw Material Software Limited.
+  Used under the JUCE 8 licence: https://juce.com/legal/juce-8-licence/
+  JUCE bundles additional third-party components (audio/image codecs and
+  utility libraries); their notices are included in the JUCE distribution
+  and on the JUCE licence page above.
+
+VST3 SDK / VST trademark
+- VST is a trademark of Steinberg Media Technologies GmbH, registered in
+  Europe and other countries. The VST3 plug-in interface is used via JUCE.
+
+libpng (PNG image decoding)
+- Copyright (c) 1995-2024 The PNG Reference Library Authors.
+  Used under the PNG Reference Library License (libpng license), a permissive
+  licence. Provided "AS IS", without warranty of any kind. The background
+  image embedded in this product is decoded with libpng (bundled with JUCE).
+
+libjpeg (JPEG image decoding)
+- This software is based in part on the work of the Independent JPEG Group
+  (IJG). Copyright (c) 1991-2020, Thomas G. Lane, Guido Vollbeding. Used under
+  the IJG licence, a permissive licence. Provided "AS IS", without warranty.
+  The animated background frames are decoded with libjpeg (bundled with JUCE).
+
+zlib (compression, used by libpng)
+- Copyright (c) 1995-2024 Jean-loup Gailly and Mark Adler. Used under the zlib
+  licence, a permissive licence. Provided "AS IS", without warranty.
+
+Background footage
+- The animated background is rendered from footage provided by the author for
+  use in this product. All rights to that footage remain with their owner.
+
+=============================== РУССКИЙ ===============================
+
+Данный продукт включает или использует следующее стороннее ПО. Уведомления
+ниже приведены для соблюдения соответствующих лицензий.
+
+JUCE
+- Tape IY Beats создан с помощью фреймворка JUCE.
+  Copyright (c) Raw Material Software Limited.
+  Используется по лицензии JUCE 8: https://juce.com/legal/juce-8-licence/
+  JUCE включает дополнительные сторонние компоненты (аудио/графические кодеки
+  и вспомогательные библиотеки); их уведомления входят в состав дистрибутива
+  JUCE и доступны на странице лицензии выше.
+
+VST3 SDK / товарный знак VST
+- VST — товарный знак Steinberg Media Technologies GmbH, зарегистрированный в
+  Европе и других странах. Интерфейс плагина VST3 используется через JUCE.
+
+libpng (декодирование PNG)
+- Copyright (c) 1995-2024 The PNG Reference Library Authors. Используется по
+  разрешительной лицензии PNG Reference Library (libpng). Предоставляется
+  «КАК ЕСТЬ», без каких-либо гарантий. Фоновое изображение, встроенное в
+  продукт, декодируется с помощью libpng (входит в JUCE).
+
+libjpeg (декодирование JPEG)
+- Продукт частично основан на работе Independent JPEG Group (IJG).
+  Copyright (c) 1991-2020, Thomas G. Lane, Guido Vollbeding. Используется по
+  разрешительной лицензии IJG. Предоставляется «КАК ЕСТЬ», без гарантий.
+  Кадры анимированного фона декодируются с помощью libjpeg (входит в JUCE).
+
+zlib (сжатие, используется libpng)
+- Copyright (c) 1995-2024 Jean-loup Gailly and Mark Adler. Используется по
+  разрешительной лицензии zlib. Предоставляется «КАК ЕСТЬ», без гарантий.
+
+Фоновое видео
+- Анимированный фон формируется из материала, предоставленного автором для
+  использования в этом продукте. Все права на материал сохраняются за его
+  владельцем.
